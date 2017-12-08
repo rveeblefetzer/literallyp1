@@ -46,7 +46,7 @@ For a good how-to on getting Twitter keys and setting this up on Heroku, see
 `this post <https://briancaffey.github.io/2016/04/05/twitter-bot-tutorial.html>`_
 by @briancaffey.
 
-@molly has `another good blog post<http://blog.mollywhite.net/twitter-bots-pt2/>`_ on setting up a Twitter bot that also explains cron jobs.
+@molly has `another good blog post <http://blog.mollywhite.net/twitter-bots-pt2/>`_ on setting up a Twitter bot that also explains cron jobs.
 
 Installation
 ------------
