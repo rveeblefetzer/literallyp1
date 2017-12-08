@@ -1,9 +1,9 @@
 literallyp1
 ===========
 
-.. image:: https://travis-ci.org/borntyping/cookiecutter-pypackage-minimal.png
-   :target: https://travis-ci.org/borntyping/cookiecutter-pypackage-minimal
-   :alt: Latest Travis CI build status
+.. image:: https://travis-ci.org/rveeblefetzer/literallyp1.svg?branch=master
+    :target: https://travis-ci.org/rveeblefetzer/literallyp1
+    :alt: Latest Travis CI build status
 
 A Twitter bot that scrapes, tweets top stories from certain newspaper front pages
 
