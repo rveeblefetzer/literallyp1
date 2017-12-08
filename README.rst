@@ -25,7 +25,7 @@ available online and tweets the top story's headline, byline and link, along wit
 stories.
 
 Right now, it's only for The New York Times, and that's getting tweeted out
-`here <https://twitter.com/literallyp1>`. 
+`here <https://twitter.com/literallyp1>`_.
 
 Usage
 -----
@@ -43,11 +43,10 @@ EST is a good bet. Up to you if you want to do this from an
 always-on-and-connected computer, or from a cloud service like Heroku
 
 For a good how-to on getting Twitter keys and setting this up on Heroku, see
-`this post <https://briancaffey.github.io/2016/04/05/twitter-bot-tutorial.html>`
-by @briancaffey. 
+`this post <https://briancaffey.github.io/2016/04/05/twitter-bot-tutorial.html>`_
+by @briancaffey.
 
-@molly has `another good blog post on setting up a Twitter bot
-<http://blog.mollywhite.net/twitter-bots-pt2/>` that also explains cron jobs.
+@molly has `another good blog post on setting up a Twitter bot<http://blog.mollywhite.net/twitter-bots-pt2/>`_ that also explains cron jobs.
 
 Installation
 ------------
