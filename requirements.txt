@@ -1,0 +1,6 @@
+requests==2.17.3
+setuptools==36.6.0
+Pillow==4.3.0
+beautifulsoup4==4.6.0
+lxml==4.1.1
+tweepy==3.5.0
