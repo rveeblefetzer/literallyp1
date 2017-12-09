@@ -10,6 +10,7 @@ account @literallyp1.
 import tweepy
 import nyt
 import imagize
+import os
 
 CONSUMER_KEY = os.environ['CONSUMER_KEY']
 CONSUMER_SECRET = os.environ['CONSUMER_SECRET']
