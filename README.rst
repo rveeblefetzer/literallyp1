@@ -1,10 +1,6 @@
 literallyp1
 ===========
 
-.. image:: https://travis-ci.org/rveeblefetzer/literallyp1.svg?branch=master
-    :target: https://travis-ci.org/rveeblefetzer/literallyp1
-    :alt: Latest Travis CI build status
-
 A Twitter bot that scrapes, tweets top stories from certain newspaper front pages
 
 This project was borne from a conversation with an old journalist friend about news
@@ -60,9 +56,6 @@ Requirements
 
 This package needs requests, BeatifulSoup and lxml to get the story details;
 Pillow to make the tweet image; and tweepy to do the tweeting.
-
-Licence
--------
 
 Authors
 -------
