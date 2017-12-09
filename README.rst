@@ -3,6 +3,14 @@ literallyp1
 
 A Twitter bot that scrapes, tweets top stories from certain newspaper front pages
 
+It grabs top stories from newspaper websites that have their print front page
+available online and tweets the top story's headline, byline and link, along with a
+.png image of the headline, byline and deck of up to the next five page-one
+stories.
+
+Right now, it's only for The New York Times, and it's tweeted out
+`here <https://twitter.com/literallyp1>`_.
+
 This project was borne from a conversation with an old journalist friend about news
 cycles, social media and feeds. You don't have to be a newspaper person to know
 that Page One is a big deal; plenty of movie tropes show reporters scrambling to
@@ -14,14 +22,6 @@ Of course, these headlines are still out there in the different feeds. But the
 labor and human decision-making that go into the day's top stories is even more
 obscured, simply because most people aren't looking. This bot aims to simply
 tweet the top story, with an image of the next several stories' details.
-
-It grabs top stories from newspaper websites that have their print front page
-available online and tweets the top story's headline, byline and link, along with a
-.png image of the headline, byline and deck of up to the next five page-one
-stories.
-
-Right now, it's only for The New York Times, and that's getting tweeted out
-`here <https://twitter.com/literallyp1>`_.
 
 Usage
 -----
