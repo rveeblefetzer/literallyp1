@@ -6,7 +6,7 @@ daily top story information (headline, byline and deck) and tweets from user
 account @literallyp1.
 """
 
-from config import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY, ACCESS_SECRET
+#from config import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY, ACCESS_SECRET
 import tweepy
 import nyt
 import imagize
