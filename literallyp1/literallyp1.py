@@ -11,6 +11,11 @@ import tweepy
 import nyt
 import imagize
 
+CONSUMER_KEY = os.environ['CONSUMER_KEY']
+CONSUMER_SECRET = os.environ['CONSUMER_SECRET']
+ACCESS_KEY = os.environ['ACCESS_KEY']
+ACCESS_SECRET = os.environ['ACCESS_SECRET']
+
 
 def get_nyt_tweet_text():
     """Return NYT top story details."""
