@@ -8,7 +8,7 @@ account @literallyp1.
 
 from config import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY, ACCESS_SECRET
 import tweepy
-import nyt
+from nyt import nyt
 import imagize
 
 
@@ -33,7 +33,7 @@ def send_daily_nyt_tweet():
     api = tweepy.API(auth)
     nyt_text = get_nyt_tweet_text()
     get_nyt_tweet_image()
-    api.update_with_media('nyt_tweet.png', nyt_text)
+    api.update_with_media('nyt/nyt_tweet.png', nyt_text)
 
 
 if __name__ == "__main__":
